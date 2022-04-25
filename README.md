@@ -4,7 +4,7 @@
 One of the reason for the success of the TCP/IP internet, is the robustness of the
 routing algorithm. The routing algorithm used in IP, is usually a variant of Dijkstra's
 Algorithm. The routing algorithm described below is a gross simplification of the real
-protocol: 
+protocol:<br> 
 ● Each node on the network runs Dijktra's algorithm once, to find the fastest
 route from that node to all the other nodes.<br>
 ● Then the nodes exchange routing tables with their neighbours.<br>
