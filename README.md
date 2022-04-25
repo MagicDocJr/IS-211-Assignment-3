@@ -1,4 +1,4 @@
-# IS-211-Assignment-3 Netowrk Problem
+# IS-211-Assignment-3 Network Problem
 
 ## Description
 One of the reason for the success of the TCP/IP internet, is the robustness of the
